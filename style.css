@@ -1,0 +1,37 @@
+body {
+        color: white;
+        font-family: Helvetica Nue, Helvetica, Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        font-size: 50px;
+    background: black;
+    background-image: url("images/flappy_bird_background_by_drunkvikings_d76jsuh-fullview.jpg");
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+  
+}
+header a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 10px; 
+    size: 100px;
+ }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: black;
+    padding: 10px 20px;
+    text-transform: lowercase;
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
